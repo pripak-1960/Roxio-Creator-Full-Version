@@ -240,4 +240,4 @@ This repository serves as the official landing page for Roxio Creator. The softw
 **Get the most recent version of Roxio Creator today!**
 
 ---
-**Last updated:** 2026-09-13 05:45:38 UTC
+**Last updated:** 2026-09-13 11:22:02 UTC
